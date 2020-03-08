@@ -3,7 +3,7 @@
 > My doozie Nuxt.js proje
 
 ## Build Setup
-
+にゃんこ！
 ``` bash
 # install dependencies
 $ npm install
