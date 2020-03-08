@@ -1,6 +1,6 @@
 # action_sample
 
-> My doozie Nuxt.js projec
+> My doozie Nuxt.js proje
 
 ## Build Setup
 
